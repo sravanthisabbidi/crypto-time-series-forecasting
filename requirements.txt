@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+newspaper3k
+textblob
+matplotlib
+seaborn
+yfinance
